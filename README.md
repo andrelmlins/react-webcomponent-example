@@ -1,6 +1,6 @@
 # WebComponent Example
 
-## Instalattion
+## Installation
 
 ```
 yarn link
@@ -11,7 +11,7 @@ yarn link button-wc
 ## Example
 
 ```jsx
-import React, { PureComponent } from "react";
+import React from "react";
 import "button-wc";
 
 const App = () => (
